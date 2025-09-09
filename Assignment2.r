@@ -1,3 +1,5 @@
+# Author: Ricardo Barnes, Date: September 9,2025, Purpose: In class Assignment 
+
 cars <- mtcars
 training_data <- cars[1:16,]
 test_data <- cars[17:32,]
@@ -24,4 +26,5 @@ Lotus Europa         16.4   26.77143
 Ford Pantera L       17.3   26.77143
 Ferrari Dino         15.2   26.77143
 Maserati Bora        10.4   26.77143
+
 Volvo 142E           10.4   21.28571
